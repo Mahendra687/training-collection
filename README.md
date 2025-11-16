@@ -124,6 +124,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Jeroen Janssens** jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) | [website](https://datascienceatthecommandline.com)
 - [**ELIXIR Estonia** ELIXIREstonia/2024-10-23-shell-novice](https://github.com/ELIXIREstonia/2024-10-23-shell-novice) | [website](https://elixirestonia.github.io/2024-10-23-shell-novice/)
 - [**MolSSI Education** MolSSI-Education/getting-started-computational-chemistry](https://github.com/MolSSI-Education/getting-started-computational-chemistry) | [website](https://molssi-education.github.io/getting-started-computational-chemistry/)
+- [**Fred Hutch Data Science Lab** fhdsl/bash_for_bio](https://github.com/fhdsl/bash_for_bio) | [website](https://hutchdatascience.org/bash_for_bio)
 
 ### Python
 
